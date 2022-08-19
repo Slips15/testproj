@@ -1,0 +1,19 @@
+.container{
+    margin-top: 0.5em;
+}
+
+.row.inp{
+   margin: 0.5em 0 0.5em 0; 
+}
+
+.main_form{
+    margin: 0.5em 0 0.5em 0; 
+}
+
+.form-control{
+    margin: 0.5em 0 0.5em 0; 
+}
+
+hr{
+    border: 1px #112236 solid;
+}
